@@ -1,1 +1,3 @@
 pierwsze zajęcia git
+
+druga zmiana
